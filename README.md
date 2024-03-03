@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RedshiftRach
 - 👀 I’m interested in Cloud Computing with AWS
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# & React
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: https://www.linkedin.com/in/rachel-ajayi/
 - 😄 Pronouns: She/Her
