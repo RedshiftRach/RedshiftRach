@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RedshiftRach
-- 👀 I’m interested in Cloud Computing with AWS
-- 🌱 I’m currently learning C# & React
+- 👀 I’m interested in Cloud Computing with AWS. I am AWS Cloud Practitioner certified
+- 🌱 I’m currently learning predominantly Backend Development: Java/C#, and some Frontend Development: React
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: https://www.linkedin.com/in/rachel-ajayi/
 - 😄 Pronouns: She/Her
