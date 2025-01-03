@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RedshiftRach
-- 👀 I’m interested in Cloud Computing with AWS. I am AWS Cloud Practitioner certified
-- 🌱 I’m currently learning predominantly Backend Development: Java/C#, and some Frontend Development: React
-- 💞️ I’m looking to collaborate on any project
+- 👀 I use AWS as a Cloud Service Provider (CSP). I am AWS Cloud Practitioner certified and working towards AWS Certified AI Practitioner
+- 🌱 I’m currently interested in Software Engineering | Data Science
+- 💞️ I’m looking to collaborate on any project as a Junior
 - 📫 How to reach me: https://www.linkedin.com/in/rachel-ajayi/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can play the Piano 🎹
